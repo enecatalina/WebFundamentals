@@ -1,0 +1,74 @@
+.wrapper{
+    width: 1000px;
+}
+.header img, .header h1{
+    display: inline-block;
+}
+.header img{
+    width: 130px;
+    height: 100px;
+}
+.header h2{
+    background-color: #406e9e;
+    color: white;
+    padding: 10px;
+}
+.header h1{
+    margin-bottom: 0px;
+    color: grey;
+}
+.sidebar{
+    width: 200px;
+    margin-bottom: 60px;
+}
+.sidebar h4, .sidebar p, .sidebar button{
+    display: inline-block;
+}
+mark.red{
+    color: red;
+    background: none;
+}
+.sidebar p{
+    margin: 0px;
+    margin-bottom: 20px;
+}
+.sidebar button{
+    margin: 1px;
+    width: 200px;
+}
+button.buttontop{
+    background-color: #517eac;
+}
+button.buttonbottom{
+    background-color: #e18a30;
+}
+.sideimg{
+    position: relative;
+    top: 0;
+    left: 0;
+    margin-top: 30px;
+    border-top: 1px solid grey;
+}
+.image1{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    margin-top: 20px;
+}
+.image2{
+    position: absolute;
+    top: 110px;
+    left: 65px;
+    width: 70px;
+    height: 90px;
+}
+.imagetext{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    color: white;
+}
+.maincontent, .header2, .footer{
+    display: inline-block
+}

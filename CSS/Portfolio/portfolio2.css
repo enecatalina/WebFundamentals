@@ -1,0 +1,40 @@
+#wrapper{
+    background-color: #1C011C;
+    width: 1000px;
+    height: 1000px;
+}
+.header{
+    background-color: white;
+    height: 50px;
+    padding-bottom: 25px;
+}
+.header h2{
+    font-size: 20px;
+    display: inline-block;
+}
+.header h1{
+    display: inline-block;
+    margin-right: 500px;
+    margin-left: 10px;
+}
+.image_about img{
+    width: 370px;
+    height: 300px;
+    margin: 25px;
+    border-style: solid;
+    border-color: silver;
+    vertical-align: top;
+}
+.aboutme{
+    background-color: silver;
+    display: inline-block;
+    width: 520px;
+    vertical-align: top;
+    margin: 25px;
+    margin-left: 15px;
+}
+.aboutme p{
+    background-color: white;
+    margin: 0px;
+    padding: 14px;
+}
